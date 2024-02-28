@@ -5,13 +5,8 @@ int main ()
 {
 
     Printf "\n bem vindo ao menu!"
+    printf "Escolha a opção desejada:"
     
-
-
-
-
-
-
 
 
 
